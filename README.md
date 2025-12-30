@@ -1,5 +1,6 @@
 # SQL Exploratory Data Analysis & Advanced Analytics
-C:\Users\Dell\Downloads\Project Roadmap (1).png
+<img width="2141" height="818" alt="Project Roadmap (1)" src="https://github.com/user-attachments/assets/094c307c-1ea1-4bad-87c8-1d88da0c31c0" />
+
 ## 📌 Project Overview
 
 This project focuses on **Exploratory Data Analysis (EDA)** and **Advanced Analytics** using **SQL Server (T-SQL)** on a structured analytical dataset.
