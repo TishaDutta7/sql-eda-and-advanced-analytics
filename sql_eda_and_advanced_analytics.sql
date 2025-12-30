@@ -332,8 +332,8 @@ GROUP BY cost_range
 ORDER BY total_products DESC;
 
 /*Group customers into three segments based on their spending behavior:
-	- VIP: Customers with at least 12 months of history and spending more than €5,000.
-	- Regular: Customers with at least 12 months of history but spending €5,000 or less.
+	- VIP: Customers with at least 12 months of history and spending more than Â€5,000.
+	- Regular: Customers with at least 12 months of history but spending Â€5,000 or less.
 	- New: Customers with a lifespan less than 12 months.
 And find the total number of customers by each group
 */
@@ -564,5 +564,6 @@ SELECT
 	END AS avg_monthly_revenue
 
 FROM product_aggregations 
+
 
 
