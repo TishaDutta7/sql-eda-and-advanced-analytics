@@ -134,5 +134,3 @@ sql-eda-and-advanced-analytics/
 
 ---
 
-But for now —
-**this README is solid, clean, and professional.** 💙
